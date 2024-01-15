@@ -1,0 +1,2 @@
+- Type "make" to build the binary.
+- Run "./program.sh" to install the binary onto the AVR microcontroller.  This is hard-coded to only work with an AVR Dragon in ISP mode.
